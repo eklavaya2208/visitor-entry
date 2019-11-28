@@ -77,7 +77,7 @@ The application will soon be deployed on a PHP based web server.
 To test/run the app locally:
 - Install Xampp(recommended) for creating apache web server for hosting PHP.
 - Clone this repository into the htdocs folder for Xampp
-- Run the MySql commands inside Initilisation.txt for setting up database
+- Run the MySql commands inside Initialisation.txt for setting up database
 - Remember to replace MySQL username and password with your original local username and passwords in required files. (For convenience, try to use root as username and have no password when setting up Xampp. In that case you wont need to make any changes)
 
 ## Bugs and improvements
