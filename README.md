@@ -1,7 +1,6 @@
 # Visitor entry
 
-The main motive of this venture was to create a software that can help a visitor check into an office without any kind of human intervention. The assignment aims
-at automating check in's and check out's at a workplace. The user just has to specify some of his personal details like name, email and phone number and other details like who does he want to meet, his check in and check out time. 
+This is an automated software to guide user entry and share information between the user and the host. It may cater to organisations and offices in need.
 
 ## Pre-requisites
 
@@ -59,7 +58,7 @@ As soon as the website is opened a login form appears, giving an option to sign 
 
 - **Host Page Demo**
 
-![host](https://drive.google.com/file/uc?export=view&id=16Jmg3dDR0QdI83wmJJupRQNTzEE8O3a3/view?usp=sharing "HOST HOME PAGE")
+![host](https://drive.google.com/uc?export=view&id=16Jmg3dDR0QdI83wmJJupRQNTzEE8O3a3 "HOST HOME PAGE")
 
 > This page allows the host to view currently checked in users.
 
